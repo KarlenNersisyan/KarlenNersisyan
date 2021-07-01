@@ -8,15 +8,15 @@
 
     * chess
 
-    ![chess](https://images.unsplash.com/photo-1604948501466-4e9c339b9c24?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlc3N8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80)
+    ![chess](https://www.plymouthpubliclibrary.org/wp-content/uploads/2016/08/Chess-300x200.jpg)
 
     * mathematics
 
-    ![mathematics](https://studyqa.com/media/upload/articles/images/Pure-mathematics-formul%C3%A6-blackboard%5B1%5D.jpg)
+    ![mathematics](https://images.newscientist.com/wp-content/uploads/2014/12/11164217/maths-gettyimages-5716961731.jpg?width=300)
 
     * football
 
-    ![football](https://ugc.futurelearn.com/uploads/images/2b/7f/header_2b7fa9a2-6988-438f-a468-465e8964bf26.jpg)
+    ![football](https://www.newcastlesportsinjury.co.uk/wp-content/uploads/2016/11/physiotherapists-in-football-300x200.jpg)
 
 * Purpose
 
