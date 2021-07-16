@@ -18,14 +18,14 @@
 
     ![football](https://www.newcastlesportsinjury.co.uk/wp-content/uploads/2016/11/physiotherapists-in-football-300x200.jpg)
 
-* Purpose
+* Desire 
 
     * Travel the world
 
     ![Travel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkyUR6ZmDxs3DXVFamVdIizkP_t-MSB_J-zGUioi5BOL7ku69VidL3AMDL3-YWpvyaXpk&usqp=CAU)
 
     
-### _The dream is to become a benefactor._
+### _The dream is to become a philanthropist(benefactor)._
 
 
 ## Contact me
