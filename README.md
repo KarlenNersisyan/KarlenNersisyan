@@ -40,5 +40,5 @@
 
     * [Replit](https://replit.com/@KarlenNersisyan)
 
-    * [Telegram](https://t.me/Karl1999)
+    * [Telegram](https://t.me/NKarlen)
 
