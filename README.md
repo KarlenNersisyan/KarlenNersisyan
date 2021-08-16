@@ -3,7 +3,7 @@
 ## I am Karlen
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlenNersisyan&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlenNersisyan)](https://github.com/KarlenNersisyan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlenNersisyan&theme=merko)](https://github.com/KarlenNersisyan/github-readme-stats)
 
 ### My
 ---
