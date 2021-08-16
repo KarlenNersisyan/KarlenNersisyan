@@ -1,20 +1,12 @@
 # Hi there 👋
 
 ## I am Karlen
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlenNersisyan)](https://github.com/KarlenNersisyan/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlenNersisyan&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlenNersisyan&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlenNersisyan&show_icons=true)
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlenNersisyan&show_icons=true&theme=merko)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarlenNersisyan&repo=Cinema-News)](https://github.com/KarlenNersisyan/Cinema-News)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlenNersisyan&layout=compact)](https://github.com/Karlennersisyan/Todo-List)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KarlenNersisyan)](https://github.com/KarlenNersisyan/Cinema-News)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlenNersisyan)](https://github.com/KarlenNersisyan/github-readme-stats)
 
-
 ### My
-
+---
 * Hobby
 
     * chess
