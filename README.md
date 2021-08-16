@@ -4,6 +4,8 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlenNersisyan)](https://github.com/KarlenNersisyan/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlenNersisyan&hide=contribs,prs)
+
 
 
 ### My
