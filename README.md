@@ -2,6 +2,10 @@
 
 ## I am Karlen
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlenNersisyan)](https://github.com/KarlenNersisyan/github-readme-stats)
+
+
 ### My
 
 * Hobby
