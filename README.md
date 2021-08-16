@@ -1,10 +1,10 @@
 # Hi there 👋
 
-<a href="https://github.com/Karlennersisyan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarlenNersisyan&repo=github-readme-stats" />
+<a href="https://github.com/Karlennersisyan/Cinema-News">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarlenNersisyan&repo=Cinema-News" />
 </a>
-<a href="https://github.com/KarlenNersisyan/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarlenNersisyan&repo=convoychat" />
+<a href="https://github.com/KarlenNersisyan/DOM_Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarlenNersisyan&repo=DOM_Project" />
 </a>
 
 
