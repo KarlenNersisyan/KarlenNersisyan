@@ -1,20 +1,15 @@
 # Hi there 👋
 
-<a href="https://github.com/Karlennersisyan/Cinema-News">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarlenNersisyan&repo=Cinema-News" />
-</a>
-<a href="https://github.com/KarlenNersisyan/DOM_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarlenNersisyan&repo=DOM_Project" />
-</a>
-
-
 ## I am Karlen
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlenNersisyan&show_icons=true&theme=merko)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlenNersisyan&theme=merko)](https://github.com/KarlenNersisyan/github-readme-stats)
+<a href="https://github.com/KarlenNersisyan/DOM_Project">
+![Karlen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlenNersisyan&show_icons=true&theme=merko)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarlenNersisyan&theme=merko&repo=DOM_Project" />
+</a>
 
 ### My
----
+
 * Hobby
 
     * chess
