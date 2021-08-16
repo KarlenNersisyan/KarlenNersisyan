@@ -9,6 +9,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlenNersisyan&show_icons=true&theme=merko)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarlenNersisyan&repo=Cinema-News)](https://github.com/KarlenNersisyan/Cinema-News)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlenNersisyan&layout=compact)](https://github.com/Karlennersisyan/Todo-List)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/KarlenNersisyan/Cinema-News)
+
 
 
 
