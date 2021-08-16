@@ -2,9 +2,9 @@
 
 ## I am Karlen
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlenNersisyan&theme=merko)](https://github.com/KarlenNersisyan/github-readme-stats)
-<a href="https://github.com/KarlenNersisyan/DOM_Project">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlenNersisyan&theme=merko)]
 ![Karlen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlenNersisyan&show_icons=true&theme=merko)
+<a href="https://github.com/KarlenNersisyan/DOM_Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarlenNersisyan&theme=merko&repo=DOM_Project" />
 </a>
 
