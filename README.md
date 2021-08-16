@@ -7,6 +7,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlenNersisyan&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlenNersisyan&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlenNersisyan&show_icons=true&theme=merko)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarlenNersisyan&repo=github-readme-stats)](https://github.com/KarlenNersisyan/github-readme-stats)
+
 
 
 
