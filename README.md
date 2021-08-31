@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I am Karlen
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D83A7C&size=36&lines=I'am+Karlen+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlenNersisyan&theme=merko)
 ![Karlen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlenNersisyan&show_icons=true&theme=merko)
