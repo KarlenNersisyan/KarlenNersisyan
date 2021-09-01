@@ -10,6 +10,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarlenNersisyan&theme=merko&repo=FAVORITE" />
 </a>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KarlenNersisyan&theme=dark" alt="KarlenNersisyan" /></p>
+
 ### My
 
 * Hobby
