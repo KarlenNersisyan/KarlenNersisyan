@@ -4,8 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KarlenNersisyan&label=Profile%20views&color=0e90b6&style=flat" alt="KarlenNersisyan" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KarlenNersisyan&theme=merko" alt="KarlenNersisyan" /></p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlenNersisyan&theme=merko)
 ![Karlen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlenNersisyan&show_icons=true&theme=merko)
+
 <a href="https://github.com/KarlenNersisyan/FAVORITE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarlenNersisyan&theme=merko&repo=FAVORITE" />
 </a>
