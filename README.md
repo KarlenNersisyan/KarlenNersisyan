@@ -13,7 +13,8 @@
 </a>
 
 <a href="https://github.com/KarlenNersisyan/modern-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarlenNersisyan&theme=merko&repo=modern-portfolio" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarlenNersisyan&theme=merko&repo=
+modern-portfolio" />
 </a>
 
 ### My
