@@ -22,12 +22,12 @@
 
 ## 👨‍💻 About me
 
-Senior full stack engineer based in **Yerevan, Armenia 🇦🇲** with 4+ years of building production websites and web apps for international brands: fintech, Web3, tourism, branding, real estate, hospitality and more.
+Senior full-stack engineer based in **Yerevan, Armenia 🇦🇲** with 4+ years of building production websites and web apps for international brands: fintech, Web3, tourism, branding, real estate, hospitality, and more.
 
 - ⚡ I care about **performance**: code-splitting, image optimisation and Core Web Vitals tuning (up to **30% faster** page loads)
 - 🔎 I own **technical SEO** end to end: Search Console, GA4, Tag Manager, structured data
 - ♿ I build **accessible**, mobile-first interfaces that feel good to use
-- 🤖 I use **AI-assisted tooling** (Claude Code, Cursor, Copilot and others) to ship faster without lowering the quality bar
+- 🤖 I use **AI-assisted tooling** (Claude Code, Cursor, Copilot, and others) to ship faster without lowering the quality bar
 - 🌱 Currently: freelancing and growing my portfolio at [karlennersisyan.dev](https://www.karlennersisyan.dev/)
 - 📫 Open to new opportunities. Best way to reach me: [email](mailto:karlennersisyan814@gmail.com) or [Telegram](https://t.me/NKarlen)
 
@@ -94,13 +94,13 @@ Senior full stack engineer based in **Yerevan, Armenia 🇦🇲** with 4+ years 
 -->
 
 <!-- Contribution snake. Needs the workflow in .github/workflows/snake.yml (run it once, then uncomment) -->
-<!--
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarlenNersisyan/KarlenNersisyan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarlenNersisyan/KarlenNersisyan/output/github-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/KarlenNersisyan/KarlenNersisyan/output/github-snake.svg" />
 </picture>
--->
+
 
 ---
 
@@ -123,7 +123,7 @@ Senior full stack engineer based in **Yerevan, Armenia 🇦🇲** with 4+ years 
 
 <div align="center">
 
-**Let's build something fast, accessible and beautiful together.** 🚀
+**Let's build something fast, accessible, and beautiful together.** 🚀
 
 [![Contact](https://img.shields.io/badge/Get_in_touch-0e90b6?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:karlennersisyan814@gmail.com)
 
